@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "97192145536",
+    "firebase_url": "https://projetologin-9302c.firebaseio.com",
+    "project_id": "projetologin-9302c",
+    "storage_bucket": "projetologin-9302c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97192145536:android:4139acba56f6945a1eec65",
+        "android_client_info": {
+          "package_name": "br.digitalhouse.projetologingoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97192145536-n7src83644jfgakq45qtp0pm0k2vaqqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.digitalhouse.projetologingoogle",
+            "certificate_hash": "a3fdf2b1b2d079cab4b4b31d0293d5a53a837c0a"
+          }
+        },
+        {
+          "client_id": "97192145536-623pk09sjt8bbp7jale0vk0oohiepjh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq0-qY1rQxBYFSP-YOrCfvq7HhzsNl48w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97192145536-623pk09sjt8bbp7jale0vk0oohiepjh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
